@@ -1,6 +1,6 @@
 float xpos = width/2;
-float xspeed = 10;
-float size = 100;
+float xspeed = 20;
+float size = 75;
 
 void setup() {
   size(1280, 720);
